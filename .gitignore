@@ -23,3 +23,16 @@ coverage
 waiter.config.js
 build/bin/algolia-key.js
 .envrc
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Editor directories and files
+
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
